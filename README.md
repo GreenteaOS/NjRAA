@@ -4,7 +4,11 @@
 
 What we are doing here is a GPU driver as a prototype for future graphics stack of the [@GreenteaOS](https://github.com/GreenteaOS)
 
-![NjRAA Logo](docs/njraa.png?raw=true)
+<p align="center">
+  <a href="https://github.com/sponsors/PeyTy">
+    <img width="224px" src="https://raw.githubusercontent.com/GreenteaOS/NjRAA/kawaii/docs/njraa.png" />
+  </a>
+</p>
 
 - Vulkan
 - DirectX / Direct3D
@@ -15,7 +19,11 @@ Uses safe programming language Hexa.
 
 #### Aim
 
-![NjRAA Arch](docs/arch.png?raw=true)
+<p align="center">
+  <a href="https://github.com/sponsors/PeyTy">
+    <img src="https://raw.githubusercontent.com/GreenteaOS/NjRAA/kawaii/docs/arch.png" />
+  </a>
+</p>
 
 To support AMD GCN 1.0+ GPUs. And Intel/Nvidia ones that conform to
 [Resource binding Tier 3 and Resource heap Tier 2](https://en.wikipedia.org/wiki/Feature_levels_in_Direct3D#Support_matrix).
