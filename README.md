@@ -15,7 +15,7 @@ What we are doing here is a GPU driver as a prototype for future graphics stack 
 - OpenGL
 - OpenCL
 
-Uses safe programming language Hexa.
+Uses safe programming language [Hexa](https://github.com/hexalang/hexa).
 
 #### Aim
 
